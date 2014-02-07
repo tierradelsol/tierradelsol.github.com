@@ -1,0 +1,23 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+Developer & Layout: Cédric Trigoso
+  Location: Hamburg, Germany
+
+Co-Founder: Adolfo Trigoso
+  Location: Cholet, France
+
+Co-Founder: Denyse Trigoso
+  Location: Cholet, France
+
+/* THANKS */
+  Texts: Cyrielle Levignat, Cédric Trigoso
+  Design: Jens Großkopf, Aleksandra Tanasijenko
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: IntelliJ
+
